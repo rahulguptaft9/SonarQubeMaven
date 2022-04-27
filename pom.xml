@@ -40,7 +40,7 @@
                 <sonar.host.url>http://192.168.122.141:9004</sonar.host.url>
 <sonar.jdbc.url>http://192.168.122.141:9004</sonar.jdbc.url>
 <sonar.jdbc.username>sonar-coverage</sonar.jdbc.username>
-<sonar.jdbc.password>root</sonar.jdbc.password>        -->                 
+<sonar.jdbc.password>root</sonar.jdbc.password>                  
 
             </properties>
         </profile>
